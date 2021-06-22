@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Header](https://raw.githubusercontent.com/a-sauvaget/<OWNER>/<OWNER>/readme_header.jpg "Header")]
 <!--
 **a-sauvaget/a-sauvaget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
