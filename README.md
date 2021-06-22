@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-sauvaget&show_icons=true&locale=en&layout=compact" alt="a-sauvaget" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-sauvaget&show_icons=true&locale=en" alt="a-sauvaget" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-sauvaget&" alt="a-sauvaget" /></p>
