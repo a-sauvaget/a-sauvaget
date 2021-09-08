@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre !</h1>
 <h3 align="center">A developer from Nantes 🐘 in France 🇫🇷</h3>
 
-- 🖥️ I'm looking for a **work-study contract**, begining next **october**
-
-- 🌱 I’m currently learning **react, node and symfony.**
-
 - 📫 How to reach me **alexandre.sauvaget44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
