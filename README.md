@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">A developer from Nantes 🐘 in France 🇫🇷</h3>
 
-- 📫 How to reach me **sauvaget.a@proton.me**
+- 📫 How to reach me **contact@asauvaget.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
