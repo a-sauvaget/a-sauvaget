@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hi 👋, I'm Alexandre</h1>
-<h3>Web Developer | Front-end</h3>
+<h3>Web Developer</h3>
   <a href="https://www.linkedin.com/in/alexandresauvaget/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
